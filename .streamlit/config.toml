@@ -1,0 +1,18 @@
+# .streamlit/config.toml
+
+[theme]
+
+# Primary accent color for interactive elements
+primaryColor="#7792E3"
+
+# Background color for the main content area
+backgroundColor="#f2f2f2"
+
+# Background color of the sidebar and other secondary areas
+secondaryBackgroundColor="#ffefc9"
+
+# Color of text
+textColor="#000000ff"
+
+# Font family for all text in the app
+font="sans serif"
